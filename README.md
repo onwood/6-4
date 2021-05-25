@@ -45,7 +45,10 @@ def annotate_objects(annotator, results, labels):
     annotator.bounding_box([xmin, ymin, xmax, ymax])
     annotator.text([xmin, ymin],
                    '%s\n%.2f' % (labels[obj['class_id']], obj['score']))
+      
     
+    #-----------------여기 아래부터 수정---------------------------
+ 
     detected_class_id = labels[obj['class_id']]
     detected_score = obj['score']
     detected_size = (xmax-xmin)*(ymax-ymin)
