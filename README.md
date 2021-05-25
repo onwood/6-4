@@ -1,3 +1,9 @@
+# 작업하시다가
+test라고 붙어있는건 제가 연습용으로 원본을 복사한거니 무시하셔도 됩니다.
+
+
+
+
 # Tensorflow - lite
 https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/raspberry_pi
 위에 링크에서 read.me 설명 읽어보시면 실행됩니다.
