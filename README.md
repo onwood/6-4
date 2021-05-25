@@ -9,7 +9,7 @@ https://github.com/tensorflow/examples/tree/master/lite/examples/object_detectio
 위에 링크에서 read.me 설명 읽어보시면 실행됩니다.
 
 ```
-cd examples/lite/examples/object_detection/raspberry_pi
+cd Tensorflow_lite/lite/examples/object_detection/raspberry_pi
 
 # The script takes an argument specifying where you want to save the model files
 bash download.sh /tmp
