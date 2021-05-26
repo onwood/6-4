@@ -7,7 +7,8 @@ test라고 붙어있는건 제가 연습용으로 원본을 복사한거니 무�
 3. 1번 라즈베리 파이 LoRa에서 읽어온 정보를 2번 라즈베리 파이 LoRa로 전송하기
 - 입니다.
 
-
+### ppt는
+초안으로 틀만 만들어두었습니다. 내용은 더 추가할겁니다.
 
 # Tensorflow - lite
 https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/raspberry_pi
