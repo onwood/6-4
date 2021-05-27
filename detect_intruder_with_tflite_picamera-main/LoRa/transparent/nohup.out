@@ -1,0 +1,21 @@
+there's too much or less arguments,please input again!!!
+  File "transparent.py", line 49
+    message = "WARINING: " + line.split(\n)
+                                          ^
+SyntaxError: unexpected character after line continuation character
+  File "transparent.py", line 47
+    content = f.readlines().strip(\n)
+                                    ^
+SyntaxError: unexpected character after line continuation character
+  File "transparent.py", line 47
+    content = f.readlines().strip(\n)
+                                    ^
+SyntaxError: unexpected character after line continuation character
+  File "transparent.py", line 103
+    delay_temp = 0
+             ^
+SyntaxError: invalid syntax
+  File "transparent.py", line 103
+    delay_temp = 0
+             ^
+SyntaxError: invalid syntax
